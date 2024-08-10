@@ -1,5 +1,5 @@
 # Thunder Finance
-
+Good
 <a href="https://t.me/Thunder_Finance" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/Ton-Dynasty/ThunderFinance/ci.yaml?branch=main&style=for-the-badge">
 <a href="https://discord.gg/T8D6QtCz" target="_blank"><img alt="Discord" src="https://img.shields.io/discord/1226736947813158952?style=for-the-badge&logo=discord&label=Discord&cacheSeconds=30"></a>
